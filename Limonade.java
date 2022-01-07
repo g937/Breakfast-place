@@ -1,4 +1,4 @@
-//KÉSZÍTETTE GECSEG DORINA - U0PSBY
+
 package reggelizohely;
 import java.util.List;
 
