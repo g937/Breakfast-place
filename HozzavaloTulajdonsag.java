@@ -1,4 +1,4 @@
-//KÉSZÍTETTE GECSEG DORINA - U0PSBY
+
 package reggelizohely;
 public class HozzavaloTulajdonsag {
     private double mennyiseg;
