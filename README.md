@@ -2,7 +2,7 @@
 Used programming language: Java
 Date: 12.12.2021.
 Description: A programban egy felkapott reggelizőhelyen vizsgálom a legnépszerűbb Termékeket. A Termék absztrakt
-osztály, tulajdonságai: név, eladási ár, hozzávalók (listaszerkezet). Az ár rendeléskor Áfával egészül ki (27%), ezt
+osztály, tulajdonságai: név, eladási ár, hozzávalók (listaszerkezet). Az ár rendeléskor Áfával egészül ki (27%), ez
 konstans értékként interfészben tárolódik, és belekalkulálódik az árba! A Termék leszármazottai a Melegszendvics
 (új tulajdonsága: elkészítési idő percben), a Limonádé (buborékos-e) és a Lekváros_piskóta (kalóriaszám).
 Egy-egy adag Termék elkészítéséhez a következő Hozzávalókra van szükség:
